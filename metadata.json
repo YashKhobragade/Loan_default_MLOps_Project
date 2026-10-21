@@ -1,0 +1,6 @@
+{
+  "name": "HMEQ Loan Default Prediction & MLOps Workbench",
+  "description": "An end-to-end MLOps pipeline and interactive workbench for HMEQ loan default prediction: from EDA and sklearn preprocessing to MLflow experiment tracking, FastAPI real-time screening, Evidently drift monitoring, and automated CI/CD retraining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
